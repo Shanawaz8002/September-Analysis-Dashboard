@@ -8,6 +8,10 @@ The objective is to evaluate retail sales performance, understand customer purch
 
 An interactive dashboard was developed to transform raw transaction data into meaningful business insights and support data-driven decision-making.
 
+## 📊 Interactive Dashboard Preview
+![Dashboard Screenshot](https://github.com/Shanawaz8002/September-Analysis-Dashboard/blob/main/September-Dashboard.png)
+
+
 ## 📁 Business Objectives
 
 - Monitor overall sales performance.
@@ -95,9 +99,6 @@ This dashboard helps business stakeholders:
 - Inventory performance cannot be evaluated without stock and purchase records.
 - Discount effectiveness analysis identifies relationships, not direct causation.
 - Customer retention analysis requires reliable historical customer transaction data.
-
-## 📊 Interactive Dashboard Preview
-![Dashboard Screenshot](https://github.com/Shanawaz8002/September-Analysis-Dashboard/blob/main/September-Dashboard.png)
   
 
 ## 📃 Reporting Period
