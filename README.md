@@ -17,6 +17,12 @@ An interactive dashboard was developed to transform raw transaction data into me
 - Explore the relationship between discount percentages and net sales.
 - Provide interactive insights for business stakeholders.
 
+## 📁 Dataset & File Structure
+- **Repository Artifacts:**
+- **Data Used:** < a href="https://github.com/Shanawaz8002/September-Analysis-Dashboard/blob/main/Little_Twins_September_2026.csv">(Clean Data File)
+- **Interactive Power Bi Dashboard:** < a href=
+- **SQL Analytics Scripts:** < a href= 
+
 ## Key Performance Indicators (KPIs)
 
 The dashboard includes five key performance indicators:
@@ -54,6 +60,7 @@ All KPI cards and visualizations respond dynamically to the selected filters, al
 
 - **Microsoft Excel** — Data inspection and preparation.
 - **Power Query** — Data cleaning, transformation and validation.
+- **SQL** -  KPI calculations and analytical measures.
 - **Microsoft Power BI** — Interactive dashboard development.
 - **DAX** — KPI calculations and analytical measures.
 
@@ -85,6 +92,9 @@ This dashboard helps business stakeholders:
 - Inventory performance cannot be evaluated without stock and purchase records.
 - Discount effectiveness analysis identifies relationships, not direct causation.
 - Customer retention analysis requires reliable historical customer transaction data.
+
+  ## 📊 Interactive Dashboard Preview
+  
 
 ## Reporting Period
 
