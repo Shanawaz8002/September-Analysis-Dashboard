@@ -16,12 +16,15 @@ An interactive dashboard was developed to transform raw transaction data into me
 - Understand customer location-wise sales performance.
 - Explore the relationship between discount percentages and net sales.
 - Provide interactive insights for business stakeholders.
+  
 
 ## 📁 Dataset & File Structure
+
 - **Repository Artifacts:**
-- **Data Used:** < a href="https://github.com/Shanawaz8002/September-Analysis-Dashboard/blob/main/Little_Twins_September_2026.csv">(Clean Data File)
-- **Interactive Power Bi Dashboard:** < a href="https://github.com/Shanawaz8002/September-Analysis-Dashboard/blob/main/September-Dashboard.png">(Interactive Power Bi Dashboard)
+- **Data Used:** < a href="https://github.com/Shanawaz8002/September-Analysis-Dashboard/blob/main/Little_Twins_September_2026.csv"> (Clean Data File)
+- **Interactive Power Bi Dashboard:** < a href="https://github.com/Shanawaz8002/September-Analysis-Dashboard/blob/main/September-Dashboard.png"> (Interactive Power Bi Dashboard)
 - **SQL Analytics Scripts:** < a href="https://github.com/Shanawaz8002/September-Analysis-Dashboard/blob/main/%F0%9F%93%8A%20LittleTwins_September_Sales%20%7BSQL%20Queries%7D.docx"> (SQL Analytics Scripts)
+
 
 ## 📌 Key Performance Indicators (KPIs)
 
