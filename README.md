@@ -1,6 +1,6 @@
-# Little Twins Baby Store — Retail Customer & Discount Effectiveness Dashboard
+# 👶 Little Twins Baby Store — Retail Customer & Discount Effectiveness Dashboard
 
-## Project Overview
+## 🎯 Project Overview
 
 This project focuses on analyzing September 2026 sales data for Little Twins Baby Store using Microsoft Power BI.
 
@@ -8,7 +8,7 @@ The objective is to evaluate retail sales performance, understand customer purch
 
 An interactive dashboard was developed to transform raw transaction data into meaningful business insights and support data-driven decision-making.
 
-## Business Objectives
+## 📁 Business Objectives
 
 - Monitor overall sales performance.
 - Analyze daily revenue trends.
@@ -20,10 +20,10 @@ An interactive dashboard was developed to transform raw transaction data into me
 ## 📁 Dataset & File Structure
 - **Repository Artifacts:**
 - **Data Used:** < a href="https://github.com/Shanawaz8002/September-Analysis-Dashboard/blob/main/Little_Twins_September_2026.csv">(Clean Data File)
-- **Interactive Power Bi Dashboard:** < a href=
-- **SQL Analytics Scripts:** < a href= 
+- **Interactive Power Bi Dashboard:** < a href="https://github.com/Shanawaz8002/September-Analysis-Dashboard/blob/main/September-Dashboard.png">(Interactive Power Bi Dashboard)
+- **SQL Analytics Scripts:** < a href="https://github.com/Shanawaz8002/September-Analysis-Dashboard/blob/main/%F0%9F%93%8A%20LittleTwins_September_Sales%20%7BSQL%20Queries%7D.docx"> (SQL Analytics Scripts)
 
-## Key Performance Indicators (KPIs)
+## 📌 Key Performance Indicators (KPIs)
 
 The dashboard includes five key performance indicators:
 
@@ -35,7 +35,7 @@ The dashboard includes five key performance indicators:
 | Unique Customers | Total number of distinct customers. |
 | Discount Rate (%) | Total discount amount divided by total gross sales. |
 
-## Dashboard Visualizations
+## 📄 Dashboard Visualizations
 
 The dashboard contains five major visualizations:
 
@@ -45,7 +45,7 @@ The dashboard contains five major visualizations:
 4. **Net Sales by Customer Location** — A bar chart comparing sales performance across customer locations.
 5. **Discount Effectiveness** — A scatter chart exploring the relationship between discount percentages and transaction-level net sales.
 
-## Interactive Features
+## 🔑 Interactive Features
 
 The dashboard includes interactive slicers for:
 
@@ -56,7 +56,7 @@ The dashboard includes interactive slicers for:
 
 All KPI cards and visualizations respond dynamically to the selected filters, allowing users to explore different aspects of business performance.
 
-## Tools & Technologies
+## ⚙ Tools & Technologies
 
 - **Microsoft Excel** — Data inspection and preparation.
 - **Power Query** — Data cleaning, transformation and validation.
@@ -64,7 +64,7 @@ All KPI cards and visualizations respond dynamically to the selected filters, al
 - **Microsoft Power BI** — Interactive dashboard development.
 - **DAX** — KPI calculations and analytical measures.
 
-## Data Cleaning & Preparation
+## 🧹 Data Cleaning & Preparation
 
 The raw September sales dataset was prepared for analysis through several data-cleaning activities:
 
@@ -76,7 +76,7 @@ The raw September sales dataset was prepared for analysis through several data-c
 - Calculating and validating Gross Sales, Discount Amount and Net Sales.
 - Checking discount percentages and financial calculation consistency.
 
-## Business Value
+## ⏳ Business Value
 
 This dashboard helps business stakeholders:
 
@@ -93,14 +93,15 @@ This dashboard helps business stakeholders:
 - Discount effectiveness analysis identifies relationships, not direct causation.
 - Customer retention analysis requires reliable historical customer transaction data.
 
-  ## 📊 Interactive Dashboard Preview
+## 📊 Interactive Dashboard Preview
+![Dashboard Screenshot](https://github.com/Shanawaz8002/September-Analysis-Dashboard/blob/main/September-Dashboard.png)
   
 
-## Reporting Period
+## 📃 Reporting Period
 
 **September 1–30, 2026**
 
-## Author
+## 👨‍💻 Author
 
 **Shahnawaz Khan**
 
